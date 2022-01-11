@@ -1,11 +1,11 @@
-var fb = 'cvvvv'; 
+var fb = 'https://facebook.com'; 
  var tw = 'https://twitter.com'; 
  var yt = 'https://youtube.com'; 
  var insta = 'https://instagram.com'; 
  var pt = 'https://pinterest.com'; 
- var social_mobile = '' 
+ var social_mobile = '923122667009' 
  var social_location = ''; 
- var social_email = ''; 
+ var social_email = 'shahriyarali08@gmail.com'; 
  var about_info = ''; 
  var company_name= 'secondone'; 
  var tagmaneger = ''; 
