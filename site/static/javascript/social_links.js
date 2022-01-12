@@ -1,7 +1,7 @@
 var fb = 'https://facebook.com'; 
  var tw = 'https://twitter.com'; 
  var yt = 'https://youtube.com'; 
- var insta = 'https://instagram.com'; 
+ var insta = 'https://www.instagram.com/turf.pk/'; 
  var pt = 'https://pinterest.com'; 
  var social_mobile = '923122667009' 
  var social_location = ''; 
